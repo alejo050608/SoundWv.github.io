@@ -1,0 +1,35 @@
+/*div incio*/
+.inicio2{
+    color: #0095ff;
+    margin-left: 10px;
+}
+* .inicio1{
+    background-image: linear-gradient( rgba(0,8,51,0.9), rgba(0,8,51,0.9), rgba(0,8,51,0.9));
+    min-height: 10vh;
+    display: flex;
+    align-items: flex-start;
+}
+.casita{
+    height: 60px;
+    width: 60px;
+    margin-left: 50px;
+}
+.separador1{
+    font-size: 50px;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9)
+}
+/*div bibioteca*/
+.biblioteca1{
+    color: #0095ff;
+    margin-left: 55px;
+}
+* .biblioteca{
+    background: rgba(0,8,51,0.9);
+    min-height: 75vh;
+}
+/*Artistas*/
+.artistas{
+    color: #c0e5ff;
+    margin-left: 255px;
+    font-family: Arial;
+}

@@ -1,0 +1,17 @@
+.audios{
+    margin-left: 150px;
+    width: 500px;
+}
+audio{
+    display: inline-block;
+    margin-top: 15px;
+    padding: 0.9px;
+    max-width: 500px;
+}
+.audios{
+    z-index: 1;
+}
+.titulo{
+    color: #c0e5ff;
+    margin-left: 150px;
+}
